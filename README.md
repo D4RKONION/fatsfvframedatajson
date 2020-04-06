@@ -1,6 +1,9 @@
 # FAT - SFV Frame Data JSON
 This is the exact SFV frame data JSON file that [FAT](https://fullmeter.com/fat) and [FATOnline](https://fullmeter.com/fatonline) use. The frame data itself is mostly kept up to date by [@HatsonFGC](https://twitter.com/HatsonFGC) and to a lesser extent [@D4RK_ONION](https://twitter.com/d4rk_onion) (me), [@Arlieth](https://twitter.com/Arlieth), [@Frostdiener](https://twitter.com/Frostdiener) and BananaCyclone.
 
+## Recent Format Changes (2.6.0)
+- I've changed the cancelsTo entry to be an array of entries. I think we can all agree that's better
+
 ## The Spreadsheet
 The information is created on [this google sheet](https://docs.google.com/spreadsheets/d/1nlbWon7SYhhO5TSpNx06qQrw2TRDEZ85HQrNherXioY/edit#gid=1311003467) which I then pull together into this JSON. If you want to report an error, please do so on [this discord](https://discord.gg/9BK8hHS). As I do not manually edit this file, pull requests or created issues are pointless. No, I probably wont give you spreadsheet edit access!
 
